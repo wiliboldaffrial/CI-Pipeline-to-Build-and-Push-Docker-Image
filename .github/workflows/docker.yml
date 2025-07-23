@@ -17,4 +17,4 @@ jobs:
         with:
           context: .
           push: true
-          tags: your-dockerhub-username/simple-node-app:latest
+          tags: wilibold/simple-node-app:latest
